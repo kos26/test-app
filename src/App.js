@@ -10,15 +10,7 @@ function App() {
         <p>
           Like a normal engineer,
         </p>
-        <h4>but cooler and exceptional</h4>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h4>but cooler and exceptional!!</h4>
       </header>
     </div>
   );

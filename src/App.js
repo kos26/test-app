@@ -10,7 +10,7 @@ function App() {
         <p>
           Like a normal engineer,
         </p>
-        <h4>but cooler and exceptional!!</h4>
+        <h4>but cooler and exceptional!</h4>
       </header>
     </div>
   );
